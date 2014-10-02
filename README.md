@@ -1,2 +1,2 @@
-chocopaskages
-=============
+My packages.config for chocolatey
+============
